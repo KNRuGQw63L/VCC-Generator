@@ -8,7 +8,7 @@ VCC-Generator is a python script that generate VCC for testing purposes only<br>
 <p>$ cd VCC-Generator</p>
 <p>$ python3 VCC.py</p>
 
-# Guide on how to use these tool
+# Guide on how to use these tool 
  
 1. Install Python from
 
