@@ -6,7 +6,7 @@ VCC-Generator is a python script that generate VCC for testing purposes only<br>
  
 <p>$ git clone (this repos url)</p> 
 <p>$ cd VCC-Generator</p> 
-<p>$ python3 VCC.py</p>   
+<p>$ python3 VCC.py</p>    
   
 # Guide on how to use these tool  
   
