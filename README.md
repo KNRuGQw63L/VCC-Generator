@@ -16,6 +16,6 @@ VCC-Generator is a python script that generate VCC for testing purposes only<br>
   
 3. Go in your file explorer and extract the ZIP file   
       
-4. Go in the extracted folder and open the start.bat file 
+4. Go in the extracted folder and open the start.bat file  
   
 5. Enjoy!
